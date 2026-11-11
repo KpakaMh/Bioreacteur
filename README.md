@@ -5,6 +5,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-5.18%2B-3F4F75?logo=plotly)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Uploading image.png…]()
+
 
 Plateforme d'ingénierie des bioprocédés pour le **suivi dynamique en temps réel**, la **simulation cinétique** (modèle de Monod / systèmes EDO) et la **visualisation 3D interactive** d'un bioréacteur de culture cellulaire.
 
