@@ -1,0 +1,21 @@
+Set-Content -Path .gitignore -Encoding utf8 -Value @"
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Pytest & Coverage
+.pytest_cache/
+.coverage
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+"@
