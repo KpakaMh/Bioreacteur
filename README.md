@@ -15,7 +15,10 @@ Plateforme d'ingénierie des bioprocédés pour le **suivi dynamique en temps r�
 * **Schéma Réacteur 3D Vectoriel (SVG/CSS)** : Baie vitrée cylindrique en verre feuilleté avec dégradés de reflets spéculaires, graduations gravées, surface fluide sinusoïdale animée par effet de vague et rotation dynamique des pales de la turbine selon le régime RPM.
 * **Panneau d'Analyse Cinétique Temps Réel** : Graphiques Plotly haute performance intégrant le lissage `uirevision` pour un suivi continu sans sauts d'image ni clignotements.
 * **Pupitre de Commande Opérationnelle** : Ajustement à la volée des régimes d'agitation, du débit d'alimentation du substrat (*Fed-Batch*) et des concentrations entrantes.
-![Uploading image.png…]()
+
+
+  ![Uploading image.png…]()
+
 
 ---
 
